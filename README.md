@@ -47,12 +47,3 @@ Repeat this plan each day until your exam on 2026-04-30
 ## Requirements
 - Java 17 or higher
 
-## Project Structure
-```
-StudyPlanner/
-├── src/
-│   ├── Main.java
-│   ├── Subject.java
-│   └── StudyPlan.java
-└── README.md
-```
